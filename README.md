@@ -1,8 +1,12 @@
-## Whatsapp Web Clone
+## Whatsapp [WebApp Side-Project]
 
-App online and working here:
+The Challenge: Can I deliver a product entirely developed by myself?
 
-<link>https://leo-chat-app-67abd.web.app/</link>
+Frontend: Develop a chat app with reusable components only with SASS-Styled Components skills. State management relies on Redux/Redux Toolkit/Redux Thunk middleware.
+
+Backend: Firebase was the must-go resource as Database & authentication & hosting services.
+
+Every conversation in the app details the technologies used on this project.
 
 ### Techonologies used in this project:
 
@@ -16,8 +20,11 @@ App online and working here:
 - Styled Components
 - Firebase (realtime database, authentication & hosting)
 
-Thanks for visiting!
+App online and working here:
 
-### Andres Nieves
+<link>https://leo-chat-app-67abd.web.app/</link>
 
 ![Screenshot](screenshot.png)
+
+Thanks for visiting!
+### Andres Nieves
